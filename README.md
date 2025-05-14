@@ -1,5 +1,3 @@
-# Anonim
-Hacked by anonim
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -36,6 +34,6 @@ Hacked by anonim
 </head>
 <body>
   <h1>HACKED BY ROOT GHOST</h1>
-  <p class="glitch">![1000002218](https://github.com/user-attachments/assets/43f7f461-0025-4ab6-9937-ff4452a3b833)
-.</p
+  <p class="glitch">ÇOKMU GÜÇLÜSÜN YIKSANA D: biz varken siz yokdunuz xd:)</p
+  
   
